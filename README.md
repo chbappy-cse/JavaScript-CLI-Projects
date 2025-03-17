@@ -5,10 +5,6 @@ A simple Command Line Interface (CLI) Todo application built with Node.js. This 
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Testing](#testing)
-- [License](#license)
 
 ## Features
 - Add new todo items
@@ -33,10 +29,10 @@ npm -v
 ```
 
 ## Steps to Set Up the Project
-```bash
-```
-git clone <repository_url>
 
+```bash
+git clone <repository_url>
+```
 1.Clone this repository to your local machine:
 ```bash
 git clone <repository_url>
