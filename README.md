@@ -30,4 +30,24 @@ To check if you have Node.js and npm installed, run the following commands:
 node -v
 npm -v
 
+```
+## Steps to Set Up the Project
+git clone <repository_url>
+
+1.Clone this repository to your local machine:
+```bash
+git clone <repository_url>
+```
+2.Navigate to the project directory:
+```bash
+cd todo-cli
+```
+3.Install the dependencies:
+```bash
+npm install
+```
+4.Link the project globally so you can use the todo-cli command from anywhere:
+```bash
+npm link
+```
 
