@@ -31,11 +31,11 @@ npm -v
 ## Steps to Set Up the Project
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/chbappy-cse/Todo-CLI-Projects-JavaScript.git
 ```
 1.Clone this repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone https://github.com/chbappy-cse/Todo-CLI-Projects-JavaScript.git
 ```
 2.Navigate to the project directory:
 ```bash
